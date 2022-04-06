@@ -24,6 +24,20 @@ The RAVSim (v1.0) is an open-source simulator and it is available publicly at [h
 To install Runtime LabVIEW:
 https://www.ni.com/kokr/support/downloads/softwareproducts/download.labview.html#305931
 
+WTA Network: List of conditions:
+
+  1- Fully connected network
+
+  (https://github.com/Rao-Sanaullah/RAVSim/blob/main/Apr-06-22%20Time%2012%2049%2051.png)
+
+  2- source != target index neurons
+
+  (https://github.com/Rao-Sanaullah/RAVSim/blob/main/Apr-06-22%20Time%2012%2049%2053.png)
+
+Mixed Signal Plot:
+
+(https://github.com/Rao-Sanaullah/RAVSim/blob/main/Apr-06-22%20Time%2012%2049%2058.png)
+
 For any help, please contact
 
 Rao Sanaullah (mr.raosanaullah@gmail.com)
