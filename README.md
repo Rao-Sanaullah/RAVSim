@@ -13,8 +13,11 @@ The RAVSim (v1.0) is an open-source simulator and it is available publicly at [h
 - You need to have a graphical programming approach LabVIEW Runtime 2021 or above.
 - A minimum computer requirement:
   • Processor: i3 CPU @ 2.3 GHz
+  
   • RAM: 4.0 GB
+  
   • System Type: 32/64-bit OS
+  
   • Operating System: Mac OS, Window
 
 To install Runtime LabVIEW:
