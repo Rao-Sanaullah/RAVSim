@@ -42,10 +42,6 @@ Mixed Signal Plot:
 
   ![Mixed Signal Plot](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Apr-06-22%20Time%2012%2049%2058.png)
 
-For any help, please contact
-
-Sanaullah (mr.raosanaullah@gmail.com)
-
 References:
 
 [1]. NI LabVIEW, https://www.ni.com/de-de/shop/labview.html.
@@ -53,3 +49,8 @@ References:
 [2]. Gr gory Dumont, Jacques Henry, and Carmen Oana Tarniceriu. Noisy threshold in neuronal models: connections with the noisy leaky integrate-and-fire model. Journal of mathematical biology, 73(6):1413–1436, 2016.
 
 [3]. Yanqing Chen. Mechanisms of winner-take-all and group selection in neuronal spiking networks. Frontiers in computational neuroscience,11:20, 2017.
+
+
+For any help, please contact
+
+Sanaullah (mr.raosanaullah@gmail.com)
