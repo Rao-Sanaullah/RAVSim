@@ -49,5 +49,9 @@ Sanaullah (mr.raosanaullah@gmail.com)
 References:
 
 [1]. NI LabVIEW, https://www.ni.com/de-de/shop/labview.html.
+
+
 [2]. Gr gory Dumont, Jacques Henry, and Carmen Oana Tarniceriu. Noisy threshold in neuronal models: connections with the noisy leaky integrate-and-fire model. Journal of mathematical biology, 73(6):1413–1436, 2016.
+
+
 [3]. Yanqing Chen. Mechanisms of winner-take-all and group selection in neuronal spiking networks. Frontiers in computational neuroscience,11:20, 2017.
