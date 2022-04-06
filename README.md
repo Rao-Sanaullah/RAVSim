@@ -40,4 +40,4 @@ Mixed Signal Plot:
 
 For any help, please contact
 
-Rao Sanaullah (mr.raosanaullah@gmail.com)
+Sanaullah (mr.raosanaullah@gmail.com)
