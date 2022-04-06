@@ -1,6 +1,6 @@
 
 
-![NVIDIA-Jetson-AGX-XAVIER-Developer-Kit](https://github.com/Rao-Sanaullah/NVIDIA-Jetson-AGX-XAVIER-Developer-Kit/blob/90a762c0d6875cfa71c346768e92c756523db2e9/10.png)
+![RAVSim: Run-time Analysis and Visualization Simulator for SNN Models](https://github.com/Rao-Sanaullah/RAVSim/blob/main/RAVSim%20logo.png)
 
 RAVSim stands for Run-time Analysis and Visualization Simulator. It is solely designed with the aim of helping early-stage researchers and students to fully understand the mechanism of SNNs where users can interact with the simulator in run-time by providing the essential parameters. Practically, RAVSim is used to simulate LIF by using a noisy input model.
 RAVSim is developed on a graphical programming language platform called LabVIEW (Laboratory Virtual Instrument Engineering Workbench)
