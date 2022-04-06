@@ -36,7 +36,7 @@ WTA Network: List of conditions:
   
   3- source == target index neurons
 
-  ![source != target index neurons](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Apr-06-22%20Time%2012%2049%2053.png)
+  ![source == target index neurons](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Apr-06-22%20Time%2014%2031%2054.png)
 
 Mixed Signal Plot:
 
