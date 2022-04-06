@@ -3,7 +3,7 @@
 ![RAVSim: Run-time Analysis and Visualization Simulator for SNN Models](https://github.com/Rao-Sanaullah/RAVSim/blob/main/RAVSim%20logo.png)
 
 RAVSim stands for Run-time Analysis and Visualization Simulator. It is solely designed with the aim of helping early-stage researchers and students to fully understand the mechanism of SNNs where users can interact with the simulator in run-time by providing the essential parameters. Practically, RAVSim is used to simulate LIF by using a noisy input model.
-RAVSim is developed on a graphical programming language platform called LabVIEW (Laboratory Virtual Instrument Engineering Workbench)
+RAVSim is developed on a graphical programming language platform called LabVIEW (Laboratory Virtual Instrument Engineering Workbench)[1].
 
 Leaky Integration and Fire by using the Noisy Input model (NLIF) [2] has been implemented to perform run-time simulation. Furthermore, it is capable of Spike detection by using the continuous noisy input, Spike detection by using input current, and generating a winner takes all network (WTA) [3], which establishes communication between the neurons.
 
@@ -45,3 +45,9 @@ Mixed Signal Plot:
 For any help, please contact
 
 Sanaullah (mr.raosanaullah@gmail.com)
+
+References:
+
+[1]. NI LabVIEW, https://www.ni.com/de-de/shop/labview.html.
+[2]. Gr gory Dumont, Jacques Henry, and Carmen Oana Tarniceriu. Noisy threshold in neuronal models: connections with the noisy leaky integrate-and-fire model. Journal of mathematical biology, 73(6):1413–1436, 2016.
+[3]. Yanqing Chen. Mechanisms of winner-take-all and group selection in neuronal spiking networks. Frontiers in computational neuroscience,11:20, 2017.
