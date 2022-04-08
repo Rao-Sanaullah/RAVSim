@@ -7,7 +7,7 @@ RAVSim is developed on a graphical programming language platform called LabVIEW 
 
 Leaky Integration and Fire by using the Noisy Input model (NLIF) [2] has been implemented to perform run-time simulation. Furthermore, it is capable of Spike detection by using the continuous noisy input, Spike detection by using input current, and generating a winner takes all network (WTA) [3], which establishes communication between the neurons.
 
-The RAVSim (v1.0) is an open-source simulator and it is available publicly at [https://www.ni.com/de-de/support/downloads/tools-network/download.real-time-analysis-and-visualization-simulator--ravsim-.html#443936]. The video demo of RAVSim can also be seen at [https://www.youtube.com/watch?v=Ozv0MXXj89Y].
+The RAVSim (v1.0) is an open-source simulator and it is available publicly at [https://www.ni.com/de-de/support/downloads/tools-network/download.run-time-analysis-and-visualization-simulator--ravsim-.html#443936]. The video demo of RAVSim can also be seen at [https://www.youtube.com/watch?v=Ozv0MXXj89Y].
 
 **Requirements**
 - You need to have a graphical programming approach LabVIEW Runtime 2021 or above.
