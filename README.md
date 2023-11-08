@@ -59,21 +59,32 @@ Image Classification Algorithm used in RAVSim results using different sets of ne
 ## Citing this work
 If you found this tool useful, please use the following bibtex to cite us
 
-@article{samajdar2018scale,
-  title={SCALE-Sim: Systolic CNN Accelerator Simulator},
-  author={Samajdar, Ananda and Zhu, Yuhao and Whatmough, Paul and Mattina, Matthew and Krishna, Tushar},
-  journal={arXiv preprint arXiv:1811.02883},
-  year={2018}
+@article{sanaullah2023exploring,
+  title={Exploring spiking neural networks: a comprehensive analysis of mathematical models and applications},
+  author={Sanaullah and Koravuna, Shamini and R{\"u}ckert, Ulrich and Jungeblut, Thorsten and others},
+  journal={Frontiers in Computational Neuroscience},
+  volume={17},
+  year={2023},
+  publisher={Frontiers Media SA}
 }
 
-@inproceedings{samajdar2020systematic,
-  title={A systematic methodology for characterizing scalability of DNN accelerators using SCALE-sim},
-  author={Samajdar, Ananda and Joseph, Jan Moritz and Zhu, Yuhao and Whatmough, Paul and Mattina, Matthew and Krishna, Tushar},
-  booktitle={2020 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)},
-  pages={58--68},
-  year={2020},
-  organization={IEEE}
+@article{sanaullah2023evaluation,
+  title={Evaluation of Spiking Neural Nets-Based Image Classification Using the Runtime Simulator RAVSim.},
+  author={Sanaullah and Koravuna, Shamini and R{\"u}ckert, Ulrich and Jungeblut, Thorsten and others},
+  journal={International Journal of Neural Systems},
+  pages={2350044--2350044},
+  year={2023}
 }
+
+@inproceedings{sanaullah2022snns,
+  title={SNNs model analyzing and visualizing experimentation using RAVSim},
+  author={Sanaullah and Koravuna, Shamini and R{\"u}ckert, Ulrich and Jungeblut, Thorsten},
+  booktitle={International conference on engineering applications of neural networks},
+  pages={40--51},
+  year={2022},
+  organization={Springer}
+}
+
 
 ## References:
 
@@ -82,12 +93,6 @@ If you found this tool useful, please use the following bibtex to cite us
 [2]. 	Gardner, B., Gr¨uning, A.: Supervised learning in spiking neural networks for precise temporal encoding. PloS one 11(8), e0161335 (2016)
 
 [3]. 	Morro, A., Canals, V., Oliver, A., Alomar, M.L., Gal´an-Prado, F., Ballester, P.J., Rossell´o, J.L.: A stochastic spiking neural network for virtual screening. IEEE transactions on neural networks and learning systems 29(4), 1371–1375 (2017)
-
-[5]. 	Sanaullah, Koravuna, S., Rückert, U., & Jungeblut, T. (2022, June). SNNs model analyzing and visualizing experimentation using RAVSim. In International conference on engineering applications of neural networks (pp. 40-51). Cham: Springer International Publishing
-
-[6]. 	Sanaullah, Koravuna, S., Rückert, U., & Jungeblut, T. (2023). Evaluation of Spiking Neural Nets-Based Image Classification Using the Runtime Simulator RAVSim. International Journal of Neural Systems, 2350044-2350044.
-
-[7]. 	Sanaullah, Koravuna, Shamini, Ulrich Rückert, and Thorsten Jungeblut. "Exploring spiking neural networks: a comprehensive analysis of mathematical models and applications." Frontiers in Computational Neuroscience 17 (2023).
 
 
 
