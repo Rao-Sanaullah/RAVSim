@@ -55,6 +55,26 @@ Mixed Signal Plot:
 
   ![Mixed Signal Plot](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Apr-06-22%20Time%2012%2049%2058.png)
 
+
+Citing this work
+If you found this tool useful, please use the following bibtex to cite us
+
+@article{samajdar2018scale,
+  title={SCALE-Sim: Systolic CNN Accelerator Simulator},
+  author={Samajdar, Ananda and Zhu, Yuhao and Whatmough, Paul and Mattina, Matthew and Krishna, Tushar},
+  journal={arXiv preprint arXiv:1811.02883},
+  year={2018}
+}
+
+@inproceedings{samajdar2020systematic,
+  title={A systematic methodology for characterizing scalability of DNN accelerators using SCALE-sim},
+  author={Samajdar, Ananda and Joseph, Jan Moritz and Zhu, Yuhao and Whatmough, Paul and Mattina, Matthew and Krishna, Tushar},
+  booktitle={2020 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)},
+  pages={58--68},
+  year={2020},
+  organization={IEEE}
+}
+
 References:
 
 [1]. 	NI LabVIEW,  https://www.ni.com/de-de/shop/labview.html. 
