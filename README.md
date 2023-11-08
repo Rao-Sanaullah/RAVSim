@@ -15,7 +15,7 @@ The RAVSim is an open-source simulator and it is available publicly at [https://
 2) RAVSim v2.0: https://www.youtube.com/watch?v=J9UR2IUA5Bc
 
    
-**Requirements**
+## **Requirements**
 - You need to have a graphical programming approach LabVIEW Runtime 2021 or above.
 - A minimum computer requirement:
   
@@ -37,7 +37,7 @@ Image Classification Algorithm used in RAVSim results using different sets of ne
 ![Model Accuracy](https://github.com/Rao-Sanaullah/RAVSim/blob/main/results_v1.1.jpg)
 
 
-WTA Network: List of conditions:
+## WTA Network: List of conditions:
 
   1- Fully connected network
 
@@ -51,7 +51,7 @@ WTA Network: List of conditions:
 
   ![source == target index neurons](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Apr-06-22%20Time%2014%2031%2054.png)
 
-Mixed Signal Plot:
+## Mixed Signal Plot:
 
   ![Mixed Signal Plot](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Apr-06-22%20Time%2012%2049%2058.png)
 
@@ -75,7 +75,7 @@ If you found this tool useful, please use the following bibtex to cite us
   organization={IEEE}
 }
 
-References:
+## References:
 
 [1]. 	NI LabVIEW,  https://www.ni.com/de-de/shop/labview.html. 
 
