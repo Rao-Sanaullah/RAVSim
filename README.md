@@ -9,25 +9,19 @@ Furthermore, RAVSim has recently introduced new features to enhance the user exp
 
 In addition to weight generation, RAVSim facilitates the comparison of different spiking neural network models. Users can dynamically update sets of parameter values for each model at runtime and obtain comparative results. This functionality aids in identifying the most suitable model for your specific spiking neural network application.
 
-To learn how to effectively use this tool at runtime experiments, this document provides a comprehensive guide on using RAVSim for performing run-time experiments. You can also watch a video demonstration at the following link:
+The RAVSim is an open-source simulator and it is available publicly at [https://www.ni.com/de-de/support/downloads/tools-network/download.run-time-analysis-and-visualization-simulator--ravsim-.html#443936] (RAVSim v2.0 is under-review by LABView team). To learn how to effectively use this tool at runtime experiments, this document provides a comprehensive guide on using RAVSim for performing run-time experiments. You can also watch a video demonstration at the following link:
 
 1) RAVSim v1.0: https://www.youtube.com/watch?v=Ozv0MXXj89Y
 2) RAVSim v2.0: https://www.youtube.com/watch?v=J9UR2IUA5Bc
 
-
-
-RAVSim is developed on a graphical programming language platform called LabVIEW (Laboratory Virtual Instrument Engineering Workbench)[2].
-
-
-The RAVSim is an open-source simulator and it is available publicly at [https://www.ni.com/de-de/support/downloads/tools-network/download.run-time-analysis-and-visualization-simulator--ravsim-.html#443936]. The video demo of RAVSim v1.0 can also be seen at [https://www.youtube.com/watch?v=Ozv0MXXj89Y].
-
+   
 **Requirements**
 - You need to have a graphical programming approach LabVIEW Runtime 2021 or above.
 - A minimum computer requirement:
   
   • Processor: i3 CPU @ 2.3 GHz
   
-  • RAM: 4.0 GB
+  • RAM: 8.0 GB
   
   • System Type: 32/64-bit OS
   
