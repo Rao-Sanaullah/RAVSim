@@ -58,11 +58,15 @@ Mixed Signal Plot:
 References:
 
 [1]. 	NI LabVIEW,  https://www.ni.com/de-de/shop/labview.html. 
+
 [2]. 	Gardner, B., Gr¨uning, A.: Supervised learning in spiking neural networks for precise temporal encoding. PloS one 11(8), e0161335 (2016)
+
 [3]. 	Morro, A., Canals, V., Oliver, A., Alomar, M.L., Gal´an-Prado, F., Ballester, P.J., Rossell´o, J.L.: A stochastic spiking neural network for virtual screening. IEEE transactions on neural networks and learning systems 29(4), 1371–1375 (2017)
 
 [5]. 	Sanaullah, Koravuna, S., Rückert, U., & Jungeblut, T. (2022, June). SNNs model analyzing and visualizing experimentation using RAVSim. In International conference on engineering applications of neural networks (pp. 40-51). Cham: Springer International Publishing
+
 [6]. 	Sanaullah, Koravuna, S., Rückert, U., & Jungeblut, T. (2023). Evaluation of Spiking Neural Nets-Based Image Classification Using the Runtime Simulator RAVSim. International Journal of Neural Systems, 2350044-2350044.
+
 [7]. 	Sanaullah, Koravuna, Shamini, Ulrich Rückert, and Thorsten Jungeblut. "Exploring spiking neural networks: a comprehensive analysis of mathematical models and applications." Frontiers in Computational Neuroscience 17 (2023).
 
 
