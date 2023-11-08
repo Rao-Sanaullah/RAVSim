@@ -56,7 +56,7 @@ Mixed Signal Plot:
   ![Mixed Signal Plot](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Apr-06-22%20Time%2012%2049%2058.png)
 
 
-#Citing this work
+## Citing this work
 If you found this tool useful, please use the following bibtex to cite us
 
 @article{samajdar2018scale,
