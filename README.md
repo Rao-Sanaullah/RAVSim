@@ -2,10 +2,19 @@
 
 ![RAVSim: Run-time Analysis and Visualization Simulator for SNN Models](https://github.com/Rao-Sanaullah/RAVSim/blob/main/RAVSim%20logo.png)
 
-RAVSim is an interactive virtual experiment environment for the simulation and analysis of spike neural network models. 
- - RAVSim v1.0, solely designed with the aim of helping early-stage researchers and students to fully understand the mechanism of SNNs where users can interact with the simulator in run-time by providing the essential parameters. There are a lot of parameters involved in the designing of SNNs and it is extremely important to understand the significance of these parameters for designing optimal neural networks. Thus, it is necessary to visualize the value of this parameter before applying it directly to the hardware. One should be aware of which parameters are essential, how the parameters interact and are dependent on each other, the optimal values of these parameters for achieving accurate and efficient SNNs to be as realistic as biological neurons [1].
- - RAVSim v1.1: It is not necessary for the end-user to know how to code backends with RAVSim when manipulating RGB image-based datasets. A face dataset without a mask and a wild image dataset with a mask is currently used for the implementation of the image classification algorithm.
- - A significant benefit of RAVSim v1.1 is its ability to allow end-users to import their own format of downloaded images without any extensions and to create a scalable database without integrating with any third-party APIs.  
+RAVSim, short for Run-time Analyzing and Visualization Simulator, is an interactive tool designed for the analysis and simulation of spiking neural network models. Developed on the LabVIEW (Laboratory Virtual Instrument Engineering Workbench) platform [1], RAVSim uses a multi-core architecture to provide users with a versatile environment for exploring the behavior of spiking neural networks.
+
+RAVSim offers both deterministic (by solving Ordinary Differential Equations (ODEs)) [2] and stochastic (using stochastic leaky integrate-and-fire (LIF) neurons algorithm) simulations [3]. This dual simulation capability enables users to gain a comprehensive understanding of spiking neural network dynamics through various approaches. What sets RAVSim apart from other tools is its unique ability to execute, analyze, extract, and validate models using image-based datasets. This empowers users not only to analyze and simulate spiking neural networks but also to create custom datasets tailored to their specific image pixel, quality, and extension preferences.
+Furthermore, RAVSim has recently introduced new features to enhance the user experience. It now offers a convenient option to generate weights for your spiking neural network models using image classification training. This feature eliminates the need for complex coding; you can simply utilize RAVSim to train your model and generate the required weights effortlessly.
+
+In addition to weight generation, RAVSim facilitates the comparison of different spiking neural network models. Users can dynamically update sets of parameter values for each model at runtime and obtain comparative results. This functionality aids in identifying the most suitable model for your specific spiking neural network application.
+
+To learn how to effectively use this tool at runtime experiments, this document provides a comprehensive guide on using RAVSim for performing run-time experiments. You can also watch a video demonstration at the following link:
+
+1) RAVSim v1.0: https://www.youtube.com/watch?v=Ozv0MXXj89Y
+2) RAVSim v2.0: https://www.youtube.com/watch?v=J9UR2IUA5Bc
+
+
 
 RAVSim is developed on a graphical programming language platform called LabVIEW (Laboratory Virtual Instrument Engineering Workbench)[2].
 
