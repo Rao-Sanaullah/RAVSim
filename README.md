@@ -9,7 +9,7 @@ Furthermore, RAVSim has recently introduced new features to enhance the user exp
 
 In addition to weight generation, RAVSim facilitates the comparison of different spiking neural network models. Users can dynamically update sets of parameter values for each model at runtime and obtain comparative results. This functionality aids in identifying the most suitable model for your specific spiking neural network application.
 
-The RAVSim is an open-source simulator and it is available publicly at [https://www.ni.com/de-de/support/downloads/tools-network/download.run-time-analysis-and-visualization-simulator--ravsim-.html#443936] (RAVSim v2.0 is under-review by LABView team). To learn how to effectively use this tool at runtime experiments, this document provides a comprehensive guide on using RAVSim for performing run-time experiments. You can also watch a video demonstration at the following link:
+The RAVSim is an open-source simulator and it is available publicly at [https://www.ni.com/de-de/support/downloads/tools-network/download.run-time-analysis-and-visualization-simulator--ravsim-.html#443936] (RAVSim v2.0 is under-review by LABView team). To learn how to effectively use this tool at runtime experiments, this document (https://github.com/Rao-Sanaullah/RAVSim/blob/main/User-Manual/RAVSim_v2..0_usermanual.pdf) provides a comprehensive guide on using RAVSim for performing run-time experiments. You can also watch a video demonstration at the following link:
 
 1) RAVSim v1.0: https://www.youtube.com/watch?v=Ozv0MXXj89Y
 2) RAVSim v2.0: https://www.youtube.com/watch?v=J9UR2IUA5Bc
@@ -57,13 +57,14 @@ Mixed Signal Plot:
 
 References:
 
-[1]. Sanaullah, Koravuna, S., Rückert, U., Jungeblut, T. (2022). SNNs Model Analyzing and Visualizing Experimentation Using RAVSim. In: Iliadis, L., Jayne, C., Tefas, A., Pimenidis, E. (eds) Engineering Applications of Neural Networks. EANN 2022. Communications in Computer and Information Science, vol 1600. Springer, Cham. https://doi.org/10.1007/978-3-031-08223-8_4
+[1]. 	NI LabVIEW,  https://www.ni.com/de-de/shop/labview.html. 
+[2]. 	Gardner, B., Gr¨uning, A.: Supervised learning in spiking neural networks for precise temporal encoding. PloS one 11(8), e0161335 (2016)
+[3]. 	Morro, A., Canals, V., Oliver, A., Alomar, M.L., Gal´an-Prado, F., Ballester, P.J., Rossell´o, J.L.: A stochastic spiking neural network for virtual screening. IEEE transactions on neural networks and learning systems 29(4), 1371–1375 (2017)
 
-[2]. NI LabVIEW, https://www.ni.com/de-de/shop/labview.html.
+[5]. 	Sanaullah, Koravuna, S., Rückert, U., & Jungeblut, T. (2022, June). SNNs model analyzing and visualizing experimentation using RAVSim. In International conference on engineering applications of neural networks (pp. 40-51). Cham: Springer International Publishing
+[6]. 	Sanaullah, Koravuna, S., Rückert, U., & Jungeblut, T. (2023). Evaluation of Spiking Neural Nets-Based Image Classification Using the Runtime Simulator RAVSim. International Journal of Neural Systems, 2350044-2350044.
+[7]. 	Sanaullah, Koravuna, Shamini, Ulrich Rückert, and Thorsten Jungeblut. "Exploring spiking neural networks: a comprehensive analysis of mathematical models and applications." Frontiers in Computational Neuroscience 17 (2023).
 
-[3]. Gr gory Dumont, Jacques Henry, and Carmen Oana Tarniceriu. Noisy threshold in neuronal models: connections with the noisy leaky integrate-and-fire model. Journal of mathematical biology, 73(6):1413–1436, 2016.
-
-[4]. Yanqing Chen. Mechanisms of winner-take-all and group selection in neuronal spiking networks. Frontiers in computational neuroscience,11:20, 2017.
 
 
 For any help, please contact
