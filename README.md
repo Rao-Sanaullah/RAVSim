@@ -41,6 +41,13 @@ And for further installation procedures please follow the user manual.
 
 ## A Run-time VI,
 
+A run-time VI offers three different WTA Networks, List of conditions:
+
+  1- Fully connected network
+  2- source != target index neurons
+  3- source == target index neurons
+Also, a mixed signal plot for better understanding of neuron communication. 
+
 ![Model Accuracy](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Images/2.png)
 
 
