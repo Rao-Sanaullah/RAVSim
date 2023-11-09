@@ -61,27 +61,14 @@ Image Classification Algorithm used in RAVSim results using different sets of ne
 ![Model Accuracy](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Images/3.png)
 
 
-## WTA Network: List of conditions:
+## Dataset Preprocessing VI
 
-  1- Fully connected network
+![Custom Dataset](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Images/4.jpg)
 
-  ![Fully connected network](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Apr-06-22%20Time%2012%2049%2051.png)
-
-  2- source != target index neurons
-
-  ![source != target index neurons](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Apr-06-22%20Time%2012%2049%2053.png)
-  
-  3- source == target index neurons
-
-  ![source == target index neurons](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Apr-06-22%20Time%2014%2031%2054.png)
-
-## Mixed Signal Plot:
-
-  ![Mixed Signal Plot](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Apr-06-22%20Time%2012%2049%2058.png)
 
 
 ## Citing this work
-If you found this tool useful, please use the following bibtex to cite us
+If you found this tool useful, please use the following BibTeX to cite us
 
 ```
 @article{sanaullah2023exploring,
