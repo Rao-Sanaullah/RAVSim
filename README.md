@@ -44,7 +44,9 @@ And for further installation procedures please follow the user manual.
 ![Model Accuracy](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Images/2.png)
 
 
-## Image Classification Algorithm used in RAVSim results using different sets of neurons in hidden layers of the network and a weight visualization.
+## Image Classification VI 
+
+Image Classification Algorithm used in RAVSim results using different sets of neurons in hidden layers of the network and a weight visualization.
  
 ![Model Accuracy](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Images/3.png)
 
