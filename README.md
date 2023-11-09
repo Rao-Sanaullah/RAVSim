@@ -27,6 +27,8 @@ The RAVSim is an open-source simulator and it is available publicly at [https://
   
   • Operating System: Mac OS, Window
 
+## Installation
+
 To install Runtime LabVIEW:
 https://www.ni.com/kokr/support/downloads/softwareproducts/download.labview.html#305931
 
@@ -95,7 +97,7 @@ If you found this tool useful, please use the following bibtex to cite us
 [3]. 	Morro, A., Canals, V., Oliver, A., Alomar, M.L., Gal´an-Prado, F., Ballester, P.J., Rossell´o, J.L.: A stochastic spiking neural network for virtual screening. IEEE transactions on neural networks and learning systems 29(4), 1371–1375 (2017)
 
 
-
+## Contact
 For any help, please contact
 
 Sanaullah (sanaullah@hsbi.de)
