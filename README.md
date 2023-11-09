@@ -14,12 +14,6 @@ The RAVSim is an open-source simulator and it is available publicly at [https://
 1) RAVSim v1.0: https://www.youtube.com/watch?v=Ozv0MXXj89Y
 2) RAVSim v2.0: https://www.youtube.com/watch?v=J9UR2IUA5Bc
 
-## RAVSim (Run-time Analyzing and Visualization Simulator) welcome screen!
-
-![RAVSim](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Images/1.jpg)
-
-
-   
 ## **Requirements**
 - You need to have a graphical programming approach LabVIEW Runtime 2021 or above.
 - A minimum computer requirement:
@@ -39,14 +33,20 @@ https://www.ni.com/kokr/support/downloads/softwareproducts/download.labview.html
 
 And for further installation procedures please follow the user manual.
 
+
+## RAVSim (Run-time Analyzing and Visualization Simulator) welcome screen!
+
+![RAVSim](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Images/1.jpg)
+
+
 ## A Run-time VI,
 
 ![Model Accuracy](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Images/2.png)
 
 
-Image Classification Algorithm used in RAVSim results using different sets of neurons in hidden layers of Spiking Neural Nets.
+## Image Classification Algorithm used in RAVSim results using different sets of neurons in hidden layers of the network and a weight visualization.
  
-![Model Accuracy](https://github.com/Rao-Sanaullah/RAVSim/blob/main/results_v1.1.jpg)
+![Model Accuracy]([https://github.com/Rao-Sanaullah/RAVSim/blob/main/results_v1.1.jpg](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Images/3.png))
 
 
 ## WTA Network: List of conditions:
