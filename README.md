@@ -61,6 +61,8 @@ Image Classification Algorithm used in RAVSim results using different sets of ne
 ## Citing this work
 If you found this tool useful, please use the following bibtex to cite us
 
+... 
+
 @article{sanaullah2023exploring,
   title={Exploring spiking neural networks: a comprehensive analysis of mathematical models and applications},
   author={Sanaullah and Koravuna, Shamini and R{\"u}ckert, Ulrich and Jungeblut, Thorsten and others},
@@ -69,6 +71,7 @@ If you found this tool useful, please use the following bibtex to cite us
   year={2023},
   publisher={Frontiers Media SA}
 }
+...
 
 @article{sanaullah2023evaluation,
   title={Evaluation of Spiking Neural Nets-Based Image Classification Using the Runtime Simulator RAVSim.},
