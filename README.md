@@ -39,6 +39,11 @@ https://www.ni.com/kokr/support/downloads/softwareproducts/download.labview.html
 
 And for further installation procedures please follow the user manual.
 
+## A Run-time VI,
+
+![Model Accuracy](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Images/2.png)
+
+
 Image Classification Algorithm used in RAVSim results using different sets of neurons in hidden layers of Spiking Neural Nets.
  
 ![Model Accuracy](https://github.com/Rao-Sanaullah/RAVSim/blob/main/results_v1.1.jpg)
