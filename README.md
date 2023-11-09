@@ -71,7 +71,7 @@ If you found this tool useful, please use the following bibtex to cite us
   publisher={Frontiers Media SA}
 }
 ```
-
+```
 @article{sanaullah2023evaluation,
   title={Evaluation of Spiking Neural Nets-Based Image Classification Using the Runtime Simulator RAVSim.},
   author={Sanaullah and Koravuna, Shamini and R{\"u}ckert, Ulrich and Jungeblut, Thorsten and others},
@@ -79,7 +79,8 @@ If you found this tool useful, please use the following bibtex to cite us
   pages={2350044--2350044},
   year={2023}
 }
-
+```
+```
 @inproceedings{sanaullah2022snns,
   title={SNNs model analyzing and visualizing experimentation using RAVSim},
   author={Sanaullah and Koravuna, Shamini and R{\"u}ckert, Ulrich and Jungeblut, Thorsten},
@@ -88,7 +89,7 @@ If you found this tool useful, please use the following bibtex to cite us
   year={2022},
   organization={Springer}
 }
-
+```
 
 ## References:
 
