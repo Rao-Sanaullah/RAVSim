@@ -65,6 +65,9 @@ Image Classification Algorithm used in RAVSim results using different sets of ne
 
 ![Custom Dataset](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Images/4.jpg)
 
+## Neural Network Models Comparison
+
+![SNN Models Comparison](https://github.com/Rao-Sanaullah/RAVSim/blob/main/Images/5.png)
 
 
 ## Citing this work
