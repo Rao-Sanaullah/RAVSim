@@ -11,11 +11,6 @@ In addition to weight generation, RAVSim facilitates the comparison of different
 
 The RAVSim is an open-source simulator and it is available publicly at [https://www.ni.com/de-de/support/downloads/tools-network/download.run-time-analysis-and-visualization-simulator--ravsim-.html#443936] (RAVSim v2.0 is under-review by LABView team). To learn how to effectively use this tool at runtime experiments, this document (https://github.com/Rao-Sanaullah/RAVSim/blob/main/User-Manual/RAVSim_v2..0_usermanual.pdf) provides a comprehensive guide on using RAVSim for performing run-time experiments. You can also watch a video demonstration at the following link:
 
-```
-Error running filter pandoc-citeproc
-Error 83
-```
-
 1) RAVSim v1.0: https://www.youtube.com/watch?v=Ozv0MXXj89Y
 2) RAVSim v2.0: https://www.youtube.com/watch?v=J9UR2IUA5Bc
 
@@ -66,8 +61,7 @@ Image Classification Algorithm used in RAVSim results using different sets of ne
 ## Citing this work
 If you found this tool useful, please use the following bibtex to cite us
 
-... 
-
+```
 @article{sanaullah2023exploring,
   title={Exploring spiking neural networks: a comprehensive analysis of mathematical models and applications},
   author={Sanaullah and Koravuna, Shamini and R{\"u}ckert, Ulrich and Jungeblut, Thorsten and others},
@@ -76,7 +70,7 @@ If you found this tool useful, please use the following bibtex to cite us
   year={2023},
   publisher={Frontiers Media SA}
 }
-...
+```
 
 @article{sanaullah2023evaluation,
   title={Evaluation of Spiking Neural Nets-Based Image Classification Using the Runtime Simulator RAVSim.},
